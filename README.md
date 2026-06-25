@@ -1,22 +1,15 @@
-# Hi there 👋 I'm Luna Dong
+<h1 align="center">Hi 👋, I'm Luna Dong(You can also call me Ling)</h1>
+<h3 align="center">A passionate UX/UI design in New York</h3>
 
-I'm **Luna Dong** (also known as **Ling Dong**), a UX/UI Designer based in New York.
+- 👨‍💻 All of my projects are available at [https://testsite1223.framer.website/](https://testsite1223.framer.website/)
 
-I enjoy designing user-friendly websites and mobile apps, creating interactive prototypes, and adding simple motion using **Figma** and **Framer**. I also build responsive websites with **HTML, CSS, and JavaScript**, and I'm always exploring how AI can enhance the design process.
+- 📫 How to reach me **lingdong4423@gmail.com**
 
-🌱 **Currently**
-- 🎨 UX/UI Designer volunteering on the **Food Oasis** project at **Hack for LA**
-- 💼 Looking for volunteer, freelance, and junior UX/UI opportunities(I want to build a killer portfolio)
-  
-**SKills**
-- Figma
-- Framer
-- Adobe suites(Photoshop, Indesign, Illustrator, Xd, Premiere, Audition)
-- Canva
-- HTML,CSS, Javascript
+- 📄 Know about my experiences [https://drive.google.com/file/d/19nasR1E3kNuROnYev71tWgmLV5NfFlQP/view](https://drive.google.com/file/d/19nasR1E3kNuROnYev71tWgmLV5NfFlQP/view)
 
-**✨ Fun Facts**
-- 🎨 Drawing helps me relax.
-- 🍰 I love cooking and baking.
-- 🧵 I enjoy counted cross-stitch and making pop-up cards.
-- 🔨 I love building and creating things.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
