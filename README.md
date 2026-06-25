@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there 👋 I'm Luna Dong
 
-<!--
-**Luna4423-arch/Luna4423-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Luna Dong** (also known as **Ling Dong**), a UX/UI Designer based in New York.
 
-Here are some ideas to get you started:
+I enjoy designing user-friendly websites and mobile apps, creating interactive prototypes, and adding simple motion using **Figma** and **Framer**. I also build responsive websites with **HTML, CSS, and JavaScript**, and I'm always exploring how AI can enhance the design process.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently**
+- 🎨 UX/UI Designer volunteering on the **Food Oasis** project at **Hack for LA**
+- 💼 Looking for volunteer, freelance, and junior UX/UI opportunities
+- 📚 Continuously learning and improving my design and front-end development skills
+
+## 🛠️ Skills
+
+**Design**
+- UX Research
+- User Interviews
+- User Testing
+- Wireframing
+- Prototyping
+- UI Design
+- Design Systems
+- Accessibility
+
+**Tools**
+- Figma
+- Framer
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe InDesign
+- Canva
+
+**Development**
+- HTML
+- CSS
+- JavaScript
+
+## 🎯 Currently Interested In
+
+- UX/UI Design
+- Web Design
+- Design Systems
+- AI for Design
+- Front-end Development
+- Motion Design
+
+## ✨ Fun Facts
+
+- 🎨 Drawing helps me relax.
+- 🍰 I love cooking and baking.
+- 🧵 I enjoy counted cross-stitch and making pop-up cards.
+- 🔨 I love building and creating things.
+
+---
+
+### 📫 Let's Connect!
+
+Feel free to connect with me or check out my projects. I'm always excited to collaborate and learn from others!
