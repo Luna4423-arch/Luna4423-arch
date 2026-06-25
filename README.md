@@ -7,8 +7,7 @@ I enjoy designing user-friendly websites and mobile apps, creating interactive p
 🌱 **Currently**
 - 🎨 UX/UI Designer volunteering on the **Food Oasis** project at **Hack for LA**
 - 💼 Looking for volunteer, freelance, and junior UX/UI opportunities
-- 📚 Continuously learning and improving my design and front-end development skills
-- 
+  
 **SKills**
 - Figma
 - Framer
@@ -18,15 +17,8 @@ I enjoy designing user-friendly websites and mobile apps, creating interactive p
 - Canva
 - HTML,CSS, Javascript
 
-## ✨ Fun Facts
-
+**✨ Fun Facts**
 - 🎨 Drawing helps me relax.
 - 🍰 I love cooking and baking.
 - 🧵 I enjoy counted cross-stitch and making pop-up cards.
 - 🔨 I love building and creating things.
-
----
-
-### 📫 Let's Connect!
-
-Feel free to connect with me or check out my projects. I'm always excited to collaborate and learn from others!
