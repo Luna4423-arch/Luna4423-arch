@@ -8,40 +8,15 @@ I enjoy designing user-friendly websites and mobile apps, creating interactive p
 - 🎨 UX/UI Designer volunteering on the **Food Oasis** project at **Hack for LA**
 - 💼 Looking for volunteer, freelance, and junior UX/UI opportunities
 - 📚 Continuously learning and improving my design and front-end development skills
-
-## 🛠️ Skills
-
-**Design**
-- UX Research
-- User Interviews
-- User Testing
-- Wireframing
-- Prototyping
-- UI Design
-- Design Systems
-- Accessibility
-
-**Tools**
+- 
+**SKills**
 - Figma
 - Framer
 - Adobe Photoshop
 - Adobe Illustrator
 - Adobe InDesign
 - Canva
-
-**Development**
-- HTML
-- CSS
-- JavaScript
-
-## 🎯 Currently Interested In
-
-- UX/UI Design
-- Web Design
-- Design Systems
-- AI for Design
-- Front-end Development
-- Motion Design
+- HTML,CSS, Javascript
 
 ## ✨ Fun Facts
 
